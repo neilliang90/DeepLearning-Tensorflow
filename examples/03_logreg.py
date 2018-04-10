@@ -15,6 +15,8 @@ import time
 
 import utils
 
+tf.reset_default_graph()
+
 # Define paramaters for the model
 learning_rate = 0.01
 batch_size = 128
@@ -70,6 +72,8 @@ correct_preds = tf.equal(tf.argmax(preds, 1), tf.argmax(label, 1))
 accuracy = tf.reduce_sum(tf.cast(correct_preds, tf.float32))
 
 writer = tf.summary.FileWriter('./graphs/logreg', tf.get_default_graph())
+
+
 with tf.Session() as sess:
    
     start_time = time.time()

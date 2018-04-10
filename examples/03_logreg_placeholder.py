@@ -16,6 +16,8 @@ import time
 
 import utils
 
+tf.reset_default_graph()
+
 # Define paramaters for the model
 learning_rate = 0.01
 batch_size = 128
