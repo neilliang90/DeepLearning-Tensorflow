@@ -9,3 +9,4 @@ examples/graphs/*
 examples/checkpoints/*
 examples/visualization/*
 Eager_Execution/datasets/*
+Experiments4Optimizers/SCSG-master/experiments/MNIST_data
