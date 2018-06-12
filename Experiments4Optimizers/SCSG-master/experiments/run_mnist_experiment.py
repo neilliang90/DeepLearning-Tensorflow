@@ -67,7 +67,7 @@ def run_single_experiment(method='sgd',
       mini_batchsize = max(1,int(batch_size / float(ratio))) # mini-batch size. 
       batch = mnist.train.next_batch(batch_size)
       feed_dict = {x:batch[0],y_:batch[1]}
-      if method == 'scsg': 
+      if method == 'scsg' or method == 'svrg': 
         optimizer.batch_update(sess,feed_dict,batch_size,mini_batchsize, lr = 1.0/(j+1) if not fix_batch else None) 
       elif method == 'sgd':   
         _ = sess.run(train_op,feed_dict=feed_dict) 
@@ -88,13 +88,13 @@ def run_single_experiment(method='sgd',
 def main():
   parser = argparse.ArgumentParser()
   parser.add_argument('--model',type = str,default = 'fc', choices = ['cnn', 'fc']) 
-  parser.add_argument('--method',type = str,default = 'svrg',
-		choices = ['scsg', 'sgd']) 
+  parser.add_argument('--method',type = str,default = 'scsg',
+		choices = ['scsg', 'sgd', 'svrg']) 
   parser.add_argument('--batch_size',type=int, default = 1000)
   parser.add_argument('--num_iterations',type=int, default = 400) 
-  parser.add_argument('--learning_rate',type=float, default = 0.001)
+  parser.add_argument('--learning_rate',type=float, default = 0.01)
   parser.add_argument('--ratio',type=int,default=32) 
-  parser.add_argument('--fix_batch', action='store_true', default=True)
+  parser.add_argument('--fix_batch', action='store_true')
   args = parser.parse_args() 
   tf.reset_default_graph() 
   run_single_experiment(method = args.method, 
