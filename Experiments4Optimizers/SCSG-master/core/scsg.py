@@ -45,15 +45,15 @@ class SCSGOptimizer(tf.train.Optimizer):
 			g += self._bias_correction_ph[i] - self._variance_reduction_ph[i]
 			
 			update = - self._learning_rate * g
-			update_ops.append(v.assign_add(update))            
+			update_ops.append(v.assign_add(update))   # update v          
 
-		return tf.group(*update_ops)   
+		return tf.group(*update_ops)   # group multiple ops together
 
 	def batch_update(self,sess,feed_dict, batch_size, mini_batchsize, lr = None): 
 		input_ph = list( feed_dict.keys() )
 		input_data = list( feed_dict.values() )
 		feed_dict_single = []
-		gs, tvars = zip(*self._grads_and_vars)  
+		gs, tvars = zip(*self._grads_and_vars)  #unzip a zipped list of tuples
 
 		# Compute the bias correction term.  
 		bias_correction = sess.run(gs, 

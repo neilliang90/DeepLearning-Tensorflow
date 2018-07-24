@@ -88,11 +88,11 @@ def run_single_experiment(method='sgd',
 def main():
   parser = argparse.ArgumentParser()
   parser.add_argument('--model',type = str,default = 'fc', choices = ['cnn', 'fc']) 
-  parser.add_argument('--method',type = str,default = 'scsg',
+  parser.add_argument('--method',type = str,default = 'sgd',
 		choices = ['scsg', 'sgd', 'svrg']) 
   parser.add_argument('--batch_size',type=int, default = 1000)
   parser.add_argument('--num_iterations',type=int, default = 400) 
-  parser.add_argument('--learning_rate',type=float, default = 0.01)
+  parser.add_argument('--learning_rate',type=float, default = 0.2)
   parser.add_argument('--ratio',type=int,default=32) 
   parser.add_argument('--fix_batch', action='store_true')
   args = parser.parse_args() 

@@ -1,0 +1,402 @@
+# iteration: 0 # data used: 1 Time elapsed: 0.4 
+ Train loss: 2.5899999141693115 Val loss: 2.5910000801086426 Val Accuracy: 0.0989999994635582
+----------------------------------------
+# iteration: 3 # data used: 16 Time elapsed: 0.63 
+ Train loss: 2.2829999923706055 Val loss: 2.2909998893737793 Val Accuracy: 0.18299999833106995
+----------------------------------------
+# iteration: 6 # data used: 59 Time elapsed: 0.87 
+ Train loss: 2.2200000286102295 Val loss: 2.2170000076293945 Val Accuracy: 0.21699999272823334
+----------------------------------------
+# iteration: 9 # data used: 139 Time elapsed: 1.11 
+ Train loss: 2.015000104904175 Val loss: 2.00600004196167 Val Accuracy: 0.4090000092983246
+----------------------------------------
+# iteration: 12 # data used: 262 Time elapsed: 1.35 
+ Train loss: 1.8760000467300415 Val loss: 1.8539999723434448 Val Accuracy: 0.5130000114440918
+----------------------------------------
+# iteration: 15 # data used: 436 Time elapsed: 1.59 
+ Train loss: 1.6890000104904175 Val loss: 1.684000015258789 Val Accuracy: 0.5379999876022339
+----------------------------------------
+# iteration: 18 # data used: 664 Time elapsed: 1.83 
+ Train loss: 1.4910000562667847 Val loss: 1.4709999561309814 Val Accuracy: 0.7049999833106995
+----------------------------------------
+# iteration: 21 # data used: 952 Time elapsed: 2.07 
+ Train loss: 1.3240000009536743 Val loss: 1.309000015258789 Val Accuracy: 0.6639999747276306
+----------------------------------------
+# iteration: 24 # data used: 1304 Time elapsed: 2.31 
+ Train loss: 1.1339999437332153 Val loss: 1.1130000352859497 Val Accuracy: 0.7649999856948853
+----------------------------------------
+# iteration: 27 # data used: 1724 Time elapsed: 2.56 
+ Train loss: 1.024999976158142 Val loss: 1.0080000162124634 Val Accuracy: 0.7609999775886536
+----------------------------------------
+# iteration: 30 # data used: 2216 Time elapsed: 2.81 
+ Train loss: 0.8830000162124634 Val loss: 0.8700000047683716 Val Accuracy: 0.7639999985694885
+----------------------------------------
+# iteration: 33 # data used: 2784 Time elapsed: 3.06 
+ Train loss: 0.8560000061988831 Val loss: 0.8309999704360962 Val Accuracy: 0.75
+----------------------------------------
+# iteration: 36 # data used: 3432 Time elapsed: 3.31 
+ Train loss: 1.0959999561309814 Val loss: 1.0549999475479126 Val Accuracy: 0.6800000071525574
+----------------------------------------
+# iteration: 39 # data used: 4161 Time elapsed: 3.57 
+ Train loss: 0.6819999814033508 Val loss: 0.6779999732971191 Val Accuracy: 0.8270000219345093
+----------------------------------------
+# iteration: 42 # data used: 4976 Time elapsed: 3.83 
+ Train loss: 0.6959999799728394 Val loss: 0.6740000247955322 Val Accuracy: 0.7929999828338623
+----------------------------------------
+# iteration: 45 # data used: 5879 Time elapsed: 4.1 
+ Train loss: 0.6140000224113464 Val loss: 0.593999981880188 Val Accuracy: 0.8510000109672546
+----------------------------------------
+# iteration: 48 # data used: 6876 Time elapsed: 4.38 
+ Train loss: 0.6039999723434448 Val loss: 0.5870000123977661 Val Accuracy: 0.843999981880188
+----------------------------------------
+# iteration: 51 # data used: 7967 Time elapsed: 4.65 
+ Train loss: 0.5989999771118164 Val loss: 0.5830000042915344 Val Accuracy: 0.8370000123977661
+----------------------------------------
+# iteration: 54 # data used: 9155 Time elapsed: 4.92 
+ Train loss: 0.5400000214576721 Val loss: 0.5389999747276306 Val Accuracy: 0.8379999995231628
+----------------------------------------
+# iteration: 57 # data used: 10445 Time elapsed: 5.2 
+ Train loss: 0.5569999814033508 Val loss: 0.5379999876022339 Val Accuracy: 0.8349999785423279
+----------------------------------------
+# iteration: 60 # data used: 11838 Time elapsed: 5.49 
+ Train loss: 0.593999981880188 Val loss: 0.5619999766349792 Val Accuracy: 0.8180000185966492
+----------------------------------------
+# iteration: 63 # data used: 13338 Time elapsed: 5.77 
+ Train loss: 0.7210000157356262 Val loss: 0.6959999799728394 Val Accuracy: 0.7910000085830688
+----------------------------------------
+# iteration: 66 # data used: 14946 Time elapsed: 6.07 
+ Train loss: 0.46299999952316284 Val loss: 0.44600000977516174 Val Accuracy: 0.8849999904632568
+----------------------------------------
+# iteration: 69 # data used: 16664 Time elapsed: 6.37 
+ Train loss: 0.4880000054836273 Val loss: 0.46700000762939453 Val Accuracy: 0.859000027179718
+----------------------------------------
+# iteration: 72 # data used: 18495 Time elapsed: 6.7 
+ Train loss: 0.4490000009536743 Val loss: 0.4440000057220459 Val Accuracy: 0.8809999823570251
+----------------------------------------
+# iteration: 75 # data used: 20442 Time elapsed: 7.02 
+ Train loss: 0.4519999921321869 Val loss: 0.42399999499320984 Val Accuracy: 0.8809999823570251
+----------------------------------------
+# iteration: 78 # data used: 22507 Time elapsed: 7.35 
+ Train loss: 0.4519999921321869 Val loss: 0.42100000381469727 Val Accuracy: 0.8880000114440918
+----------------------------------------
+# iteration: 81 # data used: 24693 Time elapsed: 7.68 
+ Train loss: 0.4300000071525574 Val loss: 0.40799999237060547 Val Accuracy: 0.8830000162124634
+----------------------------------------
+# iteration: 84 # data used: 27001 Time elapsed: 8.01 
+ Train loss: 0.4580000042915344 Val loss: 0.4390000104904175 Val Accuracy: 0.8659999966621399
+----------------------------------------
+# iteration: 87 # data used: 29434 Time elapsed: 8.33 
+ Train loss: 0.41600000858306885 Val loss: 0.3970000147819519 Val Accuracy: 0.8849999904632568
+----------------------------------------
+# iteration: 90 # data used: 31994 Time elapsed: 8.66 
+ Train loss: 0.4189999997615814 Val loss: 0.38600000739097595 Val Accuracy: 0.8960000276565552
+----------------------------------------
+# iteration: 93 # data used: 34683 Time elapsed: 8.99 
+ Train loss: 0.4099999964237213 Val loss: 0.3889999985694885 Val Accuracy: 0.8920000195503235
+----------------------------------------
+# iteration: 96 # data used: 37503 Time elapsed: 9.33 
+ Train loss: 0.39100000262260437 Val loss: 0.37400001287460327 Val Accuracy: 0.8939999938011169
+----------------------------------------
+# iteration: 99 # data used: 40458 Time elapsed: 9.68 
+ Train loss: 0.4059999883174896 Val loss: 0.3709999918937683 Val Accuracy: 0.8970000147819519
+----------------------------------------
+# iteration: 102 # data used: 43548 Time elapsed: 10.03 
+ Train loss: 0.3840000033378601 Val loss: 0.3659999966621399 Val Accuracy: 0.8930000066757202
+----------------------------------------
+# iteration: 105 # data used: 46774 Time elapsed: 10.38 
+ Train loss: 0.3440000116825104 Val loss: 0.3409999907016754 Val Accuracy: 0.9089999794960022
+----------------------------------------
+# iteration: 108 # data used: 50139 Time elapsed: 10.74 
+ Train loss: 0.3569999933242798 Val loss: 0.34700000286102295 Val Accuracy: 0.906000018119812
+----------------------------------------
+# iteration: 111 # data used: 53646 Time elapsed: 11.1 
+ Train loss: 0.36500000953674316 Val loss: 0.3370000123977661 Val Accuracy: 0.9070000052452087
+----------------------------------------
+# iteration: 114 # data used: 57297 Time elapsed: 11.64 
+ Train loss: 0.3499999940395355 Val loss: 0.335999995470047 Val Accuracy: 0.9079999923706055
+----------------------------------------
+# iteration: 117 # data used: 61092 Time elapsed: 12.01 
+ Train loss: 0.335999995470047 Val loss: 0.3269999921321869 Val Accuracy: 0.9079999923706055
+----------------------------------------
+# iteration: 120 # data used: 65035 Time elapsed: 12.39 
+ Train loss: 0.35499998927116394 Val loss: 0.3269999921321869 Val Accuracy: 0.9100000262260437
+----------------------------------------
+# iteration: 123 # data used: 69126 Time elapsed: 12.77 
+ Train loss: 0.3440000116825104 Val loss: 0.3190000057220459 Val Accuracy: 0.9120000004768372
+----------------------------------------
+# iteration: 126 # data used: 73368 Time elapsed: 13.15 
+ Train loss: 0.328000009059906 Val loss: 0.31200000643730164 Val Accuracy: 0.9160000085830688
+----------------------------------------
+# iteration: 129 # data used: 77763 Time elapsed: 13.54 
+ Train loss: 0.328000009059906 Val loss: 0.3109999895095825 Val Accuracy: 0.9169999957084656
+----------------------------------------
+# iteration: 132 # data used: 82311 Time elapsed: 13.93 
+ Train loss: 0.3400000035762787 Val loss: 0.31700000166893005 Val Accuracy: 0.9120000004768372
+----------------------------------------
+# iteration: 135 # data used: 87016 Time elapsed: 14.33 
+ Train loss: 0.3479999899864197 Val loss: 0.3330000042915344 Val Accuracy: 0.9039999842643738
+----------------------------------------
+# iteration: 138 # data used: 91878 Time elapsed: 14.74 
+ Train loss: 0.3310000002384186 Val loss: 0.30799999833106995 Val Accuracy: 0.9160000085830688
+----------------------------------------
+# iteration: 141 # data used: 96900 Time elapsed: 15.17 
+ Train loss: 0.32600000500679016 Val loss: 0.31200000643730164 Val Accuracy: 0.9129999876022339
+----------------------------------------
+# iteration: 144 # data used: 102084 Time elapsed: 15.59 
+ Train loss: 0.31700000166893005 Val loss: 0.29600000381469727 Val Accuracy: 0.9179999828338623
+----------------------------------------
+# iteration: 147 # data used: 107430 Time elapsed: 16.01 
+ Train loss: 0.3019999861717224 Val loss: 0.2919999957084656 Val Accuracy: 0.9179999828338623
+----------------------------------------
+# iteration: 150 # data used: 112940 Time elapsed: 16.56 
+ Train loss: 0.3059999942779541 Val loss: 0.296999990940094 Val Accuracy: 0.9179999828338623
+----------------------------------------
+# iteration: 153 # data used: 118616 Time elapsed: 17.0 
+ Train loss: 0.30300000309944153 Val loss: 0.289000004529953 Val Accuracy: 0.9190000295639038
+----------------------------------------
+# iteration: 156 # data used: 124460 Time elapsed: 17.43 
+ Train loss: 0.3100000023841858 Val loss: 0.28600001335144043 Val Accuracy: 0.9210000038146973
+----------------------------------------
+# iteration: 159 # data used: 130473 Time elapsed: 17.88 
+ Train loss: 0.3100000023841858 Val loss: 0.28999999165534973 Val Accuracy: 0.9169999957084656
+----------------------------------------
+# iteration: 162 # data used: 136657 Time elapsed: 18.34 
+ Train loss: 0.31200000643730164 Val loss: 0.29499998688697815 Val Accuracy: 0.9179999828338623
+----------------------------------------
+# iteration: 165 # data used: 143014 Time elapsed: 18.8 
+ Train loss: 0.33799999952316284 Val loss: 0.3190000057220459 Val Accuracy: 0.9049999713897705
+----------------------------------------
+# iteration: 168 # data used: 149546 Time elapsed: 19.26 
+ Train loss: 0.33399999141693115 Val loss: 0.32100000977516174 Val Accuracy: 0.9039999842643738
+----------------------------------------
+# iteration: 171 # data used: 156253 Time elapsed: 19.74 
+ Train loss: 0.29499998688697815 Val loss: 0.28600001335144043 Val Accuracy: 0.9190000295639038
+----------------------------------------
+# iteration: 174 # data used: 163138 Time elapsed: 20.22 
+ Train loss: 0.29899999499320984 Val loss: 0.2770000100135803 Val Accuracy: 0.9240000247955322
+----------------------------------------
+# iteration: 177 # data used: 170200 Time elapsed: 20.89 
+ Train loss: 0.27900001406669617 Val loss: 0.2750000059604645 Val Accuracy: 0.925000011920929
+----------------------------------------
+# iteration: 180 # data used: 177443 Time elapsed: 21.39 
+ Train loss: 0.28700000047683716 Val loss: 0.2800000011920929 Val Accuracy: 0.921999990940094
+----------------------------------------
+# iteration: 183 # data used: 184868 Time elapsed: 21.88 
+ Train loss: 0.28999999165534973 Val loss: 0.2759999930858612 Val Accuracy: 0.9229999780654907
+----------------------------------------
+# iteration: 186 # data used: 192477 Time elapsed: 22.38 
+ Train loss: 0.289000004529953 Val loss: 0.2680000066757202 Val Accuracy: 0.9240000247955322
+----------------------------------------
+# iteration: 189 # data used: 200270 Time elapsed: 22.91 
+ Train loss: 0.27799999713897705 Val loss: 0.2680000066757202 Val Accuracy: 0.925000011920929
+----------------------------------------
+# iteration: 192 # data used: 208250 Time elapsed: 23.45 
+ Train loss: 0.2770000100135803 Val loss: 0.2630000114440918 Val Accuracy: 0.925000011920929
+----------------------------------------
+# iteration: 195 # data used: 216419 Time elapsed: 23.98 
+ Train loss: 0.2709999978542328 Val loss: 0.2590000033378601 Val Accuracy: 0.9259999990463257
+----------------------------------------
+# iteration: 198 # data used: 224777 Time elapsed: 24.63 
+ Train loss: 0.2709999978542328 Val loss: 0.257999986410141 Val Accuracy: 0.9269999861717224
+----------------------------------------
+# iteration: 201 # data used: 233324 Time elapsed: 25.15 
+ Train loss: 0.2709999978542328 Val loss: 0.2549999952316284 Val Accuracy: 0.9269999861717224
+----------------------------------------
+# iteration: 204 # data used: 242064 Time elapsed: 25.68 
+ Train loss: 0.25999999046325684 Val loss: 0.2540000081062317 Val Accuracy: 0.9279999732971191
+----------------------------------------
+# iteration: 207 # data used: 250997 Time elapsed: 26.21 
+ Train loss: 0.26600000262260437 Val loss: 0.25699999928474426 Val Accuracy: 0.9269999861717224
+----------------------------------------
+# iteration: 210 # data used: 260125 Time elapsed: 26.77 
+ Train loss: 0.27799999713897705 Val loss: 0.257999986410141 Val Accuracy: 0.9269999861717224
+----------------------------------------
+# iteration: 213 # data used: 269449 Time elapsed: 27.32 
+ Train loss: 0.2639999985694885 Val loss: 0.25099998712539673 Val Accuracy: 0.9290000200271606
+----------------------------------------
+# iteration: 216 # data used: 278971 Time elapsed: 28.06 
+ Train loss: 0.2879999876022339 Val loss: 0.26100000739097595 Val Accuracy: 0.9290000200271606
+----------------------------------------
+# iteration: 219 # data used: 288692 Time elapsed: 28.62 
+ Train loss: 0.257999986410141 Val loss: 0.25 Val Accuracy: 0.9279999732971191
+----------------------------------------
+# iteration: 222 # data used: 298614 Time elapsed: 29.19 
+ Train loss: 0.2540000081062317 Val loss: 0.24500000476837158 Val Accuracy: 0.9290000200271606
+----------------------------------------
+# iteration: 225 # data used: 308738 Time elapsed: 29.77 
+ Train loss: 0.257999986410141 Val loss: 0.24699999392032623 Val Accuracy: 0.9300000071525574
+----------------------------------------
+# iteration: 228 # data used: 319065 Time elapsed: 30.35 
+ Train loss: 0.25200000405311584 Val loss: 0.2409999966621399 Val Accuracy: 0.9309999942779541
+----------------------------------------
+# iteration: 231 # data used: 329596 Time elapsed: 30.94 
+ Train loss: 0.2590000033378601 Val loss: 0.23999999463558197 Val Accuracy: 0.9300000071525574
+----------------------------------------
+# iteration: 234 # data used: 340333 Time elapsed: 31.73 
+ Train loss: 0.25 Val loss: 0.24199999868869781 Val Accuracy: 0.9309999942779541
+----------------------------------------
+# iteration: 237 # data used: 351277 Time elapsed: 32.35 
+ Train loss: 0.2630000114440918 Val loss: 0.2409999966621399 Val Accuracy: 0.9309999942779541
+----------------------------------------
+# iteration: 240 # data used: 362430 Time elapsed: 32.97 
+ Train loss: 0.25 Val loss: 0.23999999463558197 Val Accuracy: 0.9309999942779541
+----------------------------------------
+# iteration: 243 # data used: 373792 Time elapsed: 33.59 
+ Train loss: 0.25 Val loss: 0.23800000548362732 Val Accuracy: 0.9309999942779541
+----------------------------------------
+# iteration: 246 # data used: 385365 Time elapsed: 34.39 
+ Train loss: 0.25 Val loss: 0.23399999737739563 Val Accuracy: 0.9319999814033508
+----------------------------------------
+# iteration: 249 # data used: 397151 Time elapsed: 35.03 
+ Train loss: 0.24799999594688416 Val loss: 0.2329999953508377 Val Accuracy: 0.9330000281333923
+----------------------------------------
+# iteration: 252 # data used: 409151 Time elapsed: 35.68 
+ Train loss: 0.2460000067949295 Val loss: 0.2329999953508377 Val Accuracy: 0.9330000281333923
+----------------------------------------
+# iteration: 255 # data used: 421367 Time elapsed: 36.34 
+ Train loss: 0.24799999594688416 Val loss: 0.2329999953508377 Val Accuracy: 0.9330000281333923
+----------------------------------------
+# iteration: 258 # data used: 433799 Time elapsed: 37.01 
+ Train loss: 0.23999999463558197 Val loss: 0.23000000417232513 Val Accuracy: 0.9330000281333923
+----------------------------------------
+# iteration: 261 # data used: 446447 Time elapsed: 37.83 
+ Train loss: 0.2409999966621399 Val loss: 0.23000000417232513 Val Accuracy: 0.9330000281333923
+----------------------------------------
+# iteration: 264 # data used: 459314 Time elapsed: 38.53 
+ Train loss: 0.25600001215934753 Val loss: 0.2280000001192093 Val Accuracy: 0.9359999895095825
+----------------------------------------
+# iteration: 267 # data used: 472401 Time elapsed: 39.27 
+ Train loss: 0.25 Val loss: 0.23000000417232513 Val Accuracy: 0.9330000281333923
+----------------------------------------
+# iteration: 270 # data used: 485709 Time elapsed: 40.0 
+ Train loss: 0.23899999260902405 Val loss: 0.22699999809265137 Val Accuracy: 0.9340000152587891
+----------------------------------------
+# iteration: 273 # data used: 499239 Time elapsed: 40.84 
+ Train loss: 0.24400000274181366 Val loss: 0.2240000069141388 Val Accuracy: 0.9359999895095825
+----------------------------------------
+# iteration: 276 # data used: 512994 Time elapsed: 41.56 
+ Train loss: 0.23399999737739563 Val loss: 0.2240000069141388 Val Accuracy: 0.9350000023841858
+----------------------------------------
+# iteration: 279 # data used: 526974 Time elapsed: 42.28 
+ Train loss: 0.2329999953508377 Val loss: 0.22200000286102295 Val Accuracy: 0.9340000152587891
+----------------------------------------
+# iteration: 282 # data used: 541179 Time elapsed: 43.02 
+ Train loss: 0.2329999953508377 Val loss: 0.22100000083446503 Val Accuracy: 0.9359999895095825
+----------------------------------------
+# iteration: 285 # data used: 555612 Time elapsed: 43.89 
+ Train loss: 0.23100000619888306 Val loss: 0.22100000083446503 Val Accuracy: 0.9350000023841858
+----------------------------------------
+# iteration: 288 # data used: 570274 Time elapsed: 44.64 
+ Train loss: 0.23199999332427979 Val loss: 0.2199999988079071 Val Accuracy: 0.9350000023841858
+----------------------------------------
+# iteration: 291 # data used: 585165 Time elapsed: 45.39 
+ Train loss: 0.2409999966621399 Val loss: 0.2240000069141388 Val Accuracy: 0.9359999895095825
+----------------------------------------
+# iteration: 294 # data used: 600287 Time elapsed: 46.16 
+ Train loss: 0.22100000083446503 Val loss: 0.21699999272823334 Val Accuracy: 0.9380000233650208
+----------------------------------------
+# iteration: 297 # data used: 615641 Time elapsed: 47.06 
+ Train loss: 0.2240000069141388 Val loss: 0.21899999678134918 Val Accuracy: 0.9380000233650208
+----------------------------------------
+# iteration: 300 # data used: 631229 Time elapsed: 47.85 
+ Train loss: 0.23000000417232513 Val loss: 0.2150000035762787 Val Accuracy: 0.9390000104904175
+----------------------------------------
+# iteration: 303 # data used: 647051 Time elapsed: 48.66 
+ Train loss: 0.23100000619888306 Val loss: 0.21299999952316284 Val Accuracy: 0.9369999766349792
+----------------------------------------
+# iteration: 306 # data used: 663108 Time elapsed: 49.61 
+ Train loss: 0.22100000083446503 Val loss: 0.21299999952316284 Val Accuracy: 0.9369999766349792
+----------------------------------------
+# iteration: 309 # data used: 679402 Time elapsed: 50.44 
+ Train loss: 0.21299999952316284 Val loss: 0.210999995470047 Val Accuracy: 0.9380000233650208
+----------------------------------------
+# iteration: 312 # data used: 695934 Time elapsed: 51.26 
+ Train loss: 0.21699999272823334 Val loss: 0.21199999749660492 Val Accuracy: 0.9390000104904175
+----------------------------------------
+# iteration: 315 # data used: 712705 Time elapsed: 52.1 
+ Train loss: 0.21799999475479126 Val loss: 0.20900000631809235 Val Accuracy: 0.9380000233650208
+----------------------------------------
+# iteration: 318 # data used: 729716 Time elapsed: 53.15 
+ Train loss: 0.21299999952316284 Val loss: 0.20900000631809235 Val Accuracy: 0.9399999976158142
+----------------------------------------
+# iteration: 321 # data used: 746969 Time elapsed: 54.09 
+ Train loss: 0.21899999678134918 Val loss: 0.20800000429153442 Val Accuracy: 0.9390000104904175
+----------------------------------------
+# iteration: 324 # data used: 764465 Time elapsed: 55.04 
+ Train loss: 0.21299999952316284 Val loss: 0.2070000022649765 Val Accuracy: 0.9399999976158142
+----------------------------------------
+# iteration: 327 # data used: 782204 Time elapsed: 56.1 
+ Train loss: 0.2329999953508377 Val loss: 0.20600000023841858 Val Accuracy: 0.9399999976158142
+----------------------------------------
+# iteration: 330 # data used: 800187 Time elapsed: 57.04 
+ Train loss: 0.22699999809265137 Val loss: 0.20499999821186066 Val Accuracy: 0.9390000104904175
+----------------------------------------
+# iteration: 333 # data used: 818416 Time elapsed: 57.95 
+ Train loss: 0.22300000488758087 Val loss: 0.20800000429153442 Val Accuracy: 0.9409999847412109
+----------------------------------------
+# iteration: 336 # data used: 836891 Time elapsed: 58.97 
+ Train loss: 0.22300000488758087 Val loss: 0.20999999344348907 Val Accuracy: 0.9399999976158142
+----------------------------------------
+# iteration: 339 # data used: 855615 Time elapsed: 59.89 
+ Train loss: 0.20800000429153442 Val loss: 0.20600000023841858 Val Accuracy: 0.9409999847412109
+----------------------------------------
+# iteration: 342 # data used: 874587 Time elapsed: 60.85 
+ Train loss: 0.2160000056028366 Val loss: 0.20399999618530273 Val Accuracy: 0.9399999976158142
+----------------------------------------
+# iteration: 345 # data used: 893810 Time elapsed: 61.94 
+ Train loss: 0.20900000631809235 Val loss: 0.20100000500679016 Val Accuracy: 0.9419999718666077
+----------------------------------------
+# iteration: 348 # data used: 913283 Time elapsed: 62.9 
+ Train loss: 0.2070000022649765 Val loss: 0.20000000298023224 Val Accuracy: 0.9409999847412109
+----------------------------------------
+# iteration: 351 # data used: 933009 Time elapsed: 63.86 
+ Train loss: 0.20499999821186066 Val loss: 0.20000000298023224 Val Accuracy: 0.9419999718666077
+----------------------------------------
+# iteration: 354 # data used: 952989 Time elapsed: 64.96 
+ Train loss: 0.21199999749660492 Val loss: 0.19900000095367432 Val Accuracy: 0.9399999976158142
+----------------------------------------
+# iteration: 357 # data used: 973223 Time elapsed: 65.97 
+ Train loss: 0.20499999821186066 Val loss: 0.20000000298023224 Val Accuracy: 0.9430000185966492
+----------------------------------------
+# iteration: 360 # data used: 993714 Time elapsed: 67.12 
+ Train loss: 0.21199999749660492 Val loss: 0.19599999487400055 Val Accuracy: 0.9430000185966492
+----------------------------------------
+# iteration: 363 # data used: 1014461 Time elapsed: 68.13 
+ Train loss: 0.20000000298023224 Val loss: 0.19499999284744263 Val Accuracy: 0.9419999718666077
+----------------------------------------
+# iteration: 366 # data used: 1035465 Time elapsed: 69.15 
+ Train loss: 0.2070000022649765 Val loss: 0.19499999284744263 Val Accuracy: 0.9440000057220459
+----------------------------------------
+# iteration: 369 # data used: 1056729 Time elapsed: 70.29 
+ Train loss: 0.20200000703334808 Val loss: 0.19599999487400055 Val Accuracy: 0.9419999718666077
+----------------------------------------
+# iteration: 372 # data used: 1078251 Time elapsed: 71.41 
+ Train loss: 0.20600000023841858 Val loss: 0.19300000369548798 Val Accuracy: 0.9440000057220459
+----------------------------------------
+# iteration: 375 # data used: 1100034 Time elapsed: 72.63 
+ Train loss: 0.21299999952316284 Val loss: 0.19499999284744263 Val Accuracy: 0.9440000057220459
+----------------------------------------
+# iteration: 378 # data used: 1122081 Time elapsed: 73.68 
+ Train loss: 0.2029999941587448 Val loss: 0.19099999964237213 Val Accuracy: 0.9440000057220459
+----------------------------------------
+# iteration: 381 # data used: 1144390 Time elapsed: 74.75 
+ Train loss: 0.19499999284744263 Val loss: 0.1899999976158142 Val Accuracy: 0.9449999928474426
+----------------------------------------
+# iteration: 384 # data used: 1166963 Time elapsed: 75.94 
+ Train loss: 0.19900000095367432 Val loss: 0.1899999976158142 Val Accuracy: 0.9440000057220459
+----------------------------------------
+# iteration: 387 # data used: 1189801 Time elapsed: 77.08 
+ Train loss: 0.19300000369548798 Val loss: 0.1889999955892563 Val Accuracy: 0.9449999928474426
+----------------------------------------
+# iteration: 390 # data used: 1212905 Time elapsed: 78.35 
+ Train loss: 0.1889999955892563 Val loss: 0.1889999955892563 Val Accuracy: 0.9459999799728394
+----------------------------------------
+# iteration: 393 # data used: 1236276 Time elapsed: 79.46 
+ Train loss: 0.210999995470047 Val loss: 0.18799999356269836 Val Accuracy: 0.9459999799728394
+----------------------------------------
+# iteration: 396 # data used: 1259916 Time elapsed: 80.57 
+ Train loss: 0.19900000095367432 Val loss: 0.18700000643730164 Val Accuracy: 0.9459999799728394
+----------------------------------------
+# iteration: 399 # data used: 1283826 Time elapsed: 81.82 
+ Train loss: 0.19699999690055847 Val loss: 0.1860000044107437 Val Accuracy: 0.9470000267028809
+----------------------------------------
